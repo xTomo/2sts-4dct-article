@@ -1,0 +1,7 @@
+jupyterlab==4.1.2
+jupytext==1.16.1
+jupyterlab-execute-time==3.1.2
+numpy==1.26.4
+scikit-image==0.22.0
+matplotlib==3.8.3
+scipy==1.12.0
