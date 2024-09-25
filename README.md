@@ -1,6 +1,6 @@
 # 2sts-4dct-article
 
-This repo contain code and data for "**2STS 4DCT (Single Shot per Time Step 4D Computed Tomography) Algorithm**" article by **Grigoriev M.V. & Buzmakov A.V.**
+This repo contain code and data for "**Time-resolved tomography algorithm using one projection per time step: non-monotonic case**" article by **Grigoriev M.V. & Buzmakov A.V.**
 
 ---
 
